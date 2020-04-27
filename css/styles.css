@@ -1,6 +1,7 @@
 
 body{
   background-color: #f6f578;
+  margin: 0;
 }
 
  h3{
@@ -11,4 +12,8 @@ h2{
 }
 h1{
  color:#649d66;
+}img{
+  background-color: white;
+  margin-right: 0;
 }
+
