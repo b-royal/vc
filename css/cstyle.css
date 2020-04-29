@@ -1,7 +1,7 @@
 body{
-  background: url("https://images.freeimages.com/images/large-previews/839/looking-out-over-the-setting-sun-1637231.jpg")#99f repeat-y fixed;
+  background: no-repeat url("https://images.freeimages.com/images/large-previews/839/looking-out-over-the-setting-sun-1637231.jpg");
  margin:auto;
- text-align: center;
+ text-align: center;no-repeat
 }
 h1{
   margin:100px auto 50px auto;
