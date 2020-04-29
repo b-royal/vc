@@ -3,7 +3,7 @@ margin:0;
   color:#40514E ;
   text-align: center;
   font-family: 'Merriweather', serif;
-  font-size-adjust: auto;
+  
 }
 
 h1{
@@ -67,7 +67,7 @@ a{
 .cloud2{
   position: absolute;
   left:15%;
-  top:12%;
+  top:6%;
 }
 .mountain{
   size:auto;
